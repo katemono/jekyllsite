@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-12-19 22:14:31 -0500
+categories: update
+---
+Hi im mokocchi and this is it. Made a new page for the site, or added to the server i suppose
+[tomokochan](http://tomokochan.me)
