@@ -16,3 +16,7 @@ twitter_username: mokocchi_chan
 github_username:  katemono
 # Build settings
 markdown: kramdown
+collections:
+  gameposts:
+    output: true
+  
