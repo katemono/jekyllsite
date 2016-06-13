@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Strictly Regimented"
-date:   2016-1-05 11:27:31 -0500
-categories: update
----
-I wonder if I would be more successful at life if I kept everything strictly regimented.
-
